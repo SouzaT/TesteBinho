@@ -1,0 +1,11 @@
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\bin\Debug\netcoreapp2.0\BinhoHelloWorld.deps.json
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\bin\Debug\netcoreapp2.0\BinhoHelloWorld.runtimeconfig.json
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\bin\Debug\netcoreapp2.0\BinhoHelloWorld.runtimeconfig.dev.json
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\bin\Debug\netcoreapp2.0\BinhoHelloWorld.dll
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\bin\Debug\netcoreapp2.0\BinhoHelloWorld.pdb
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.csprojResolveAssemblyReference.cache
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.csproj.CoreCompileInputs.cache
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.AssemblyInfoInputs.cache
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.AssemblyInfo.cs
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.dll
+C:\Estudos\ProjetoBinho\BinhoHelloWorld\BinhoHelloWorld\obj\Debug\netcoreapp2.0\BinhoHelloWorld.pdb
